@@ -1,4 +1,4 @@
-# DegenToken Smart Contract
+# MetaFarmers Smart Contract
 
 Welcome to the DegenToken project! This repository contains the implementation of the `DegenToken` ERC-20 smart contract designed for the Degen Gaming ecosystem. Built on the Avalanche network, this contract facilitates various in-game transactions, including token minting, burning, and purchasing in-game assets.
 
